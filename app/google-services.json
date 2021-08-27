@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "211268997790",
+    "firebase_url": "https://fir-d62a0-default-rtdb.firebaseio.com",
+    "project_id": "fir-d62a0",
+    "storage_bucket": "fir-d62a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211268997790:android:54a2c362f5d9d8ffa1618f",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211268997790-3e2fgt8damr35lohf6n3naj8iuqpsgug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBHAbsbDv5dyPdqNyR7nLS_K61uWkYDzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211268997790-3e2fgt8damr35lohf6n3naj8iuqpsgug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211268997790:android:b49e10bbe7005681a1618f",
+        "android_client_info": {
+          "package_name": "com.upsi.mysukan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211268997790-3e2fgt8damr35lohf6n3naj8iuqpsgug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBHAbsbDv5dyPdqNyR7nLS_K61uWkYDzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211268997790-3e2fgt8damr35lohf6n3naj8iuqpsgug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
